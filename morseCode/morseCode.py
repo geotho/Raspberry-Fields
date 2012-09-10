@@ -69,10 +69,4 @@ morse("sms")
 sleep(2)
 morse("sos")
 sleep(2)
-# sleep("i love jessie")
-
-# while 1:
-#      GPIO.output(7, False)
-#      sleep(0.2)
-#      GPIO.output(7, True)
-#      sleep(0.2)		
+	
